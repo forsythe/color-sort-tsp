@@ -7,7 +7,7 @@
 
 #define NUM_COLORS 500
 
-#define ANIMATE false
+#define ANIMATE true
 
 //30 0.00001 10000.0 false
 //20 0.001 10000.0 true
