@@ -5,6 +5,8 @@ Instead of trying to find the shortest path through a set of points (x, y), this
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UTO_rdMlOIY
 " target="_blank"><img src="http://img.youtube.com/vi/UTO_rdMlOIY/0.jpg" 
 alt="Sorting 500 colors: traveling salesman visualized " width="500" height="300" border="10" /></a>
+![demo](https://i.gyazo.com/dd66042f9d7c7e8d8d2572c6c0f59ed2.gif)
+
 
 ### Customizable options under `defs.h`  
 `NUM_COLORS`: Number of colors ("cities" to find a path through)  
