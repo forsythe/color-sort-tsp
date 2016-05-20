@@ -1,7 +1,8 @@
 ### Summary
 Instead of trying to find the shortest path through a set of points (x, y), this program does it in 3 dimensions, (x, y, z). Furthermore, I visualize each city with (Red=x, Blue=y, Green=z). The values of x, y, and z are between 0 and 255. I use [2-opt](https://en.wikipedia.org/wiki/2-opt) to find a good solution to this TSP problem.
 
-### Demo (500 colors, 2opt)
+### Demo (500 colors, 2opt)  
+click to watch  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UTO_rdMlOIY
 " target="_blank"><img src="http://img.youtube.com/vi/UTO_rdMlOIY/0.jpg" 
 alt="Sorting 500 colors: traveling salesman visualized " width="500" height="300" border="10" /></a>
